@@ -1,3 +1,9 @@
+////////////////////////////////////////////////
+//  Author :- Abhijit Kailas Gadhave          //
+//  Date :- 15/11/2022                        //
+//  Description :- Demonstrates Program       //
+//  Connects to mysql Database using Nodejs   //
+//////////////////////////////////////////////// 
 const express = require('express')
 const app = express()
 app.use(express.json());
